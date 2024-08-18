@@ -7,7 +7,7 @@
 
 ## Teknoloji
 
-Swift
+SwiftUI
 
 ## Özellikler
 
